@@ -30,19 +30,19 @@
 
 - 메인 페이지
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec1bad71-9655-4da9-a59e-04e0ab9e249f/Untitled.png)
+![Untitled](image/1.png)
 
 - 회원 등록
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cfbf9796-6ba5-4486-9c69-0c95e5980681/Untitled.png)
+![Untitled](image/2.png)
 
 - 교수님 페이지
     - 출석기록 이메일 전송
     - 실시간 강의 목록
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df38a15c-d188-4bb3-8b26-09b297085517/Untitled.png)
+![Untitled](image/3.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1dfc2e6-951c-4117-bfa2-795a328a0cd8/Untitled.png)
+![Untitled](image/4.png)
 
 - 학생 페이지
     - 대면 강의 출석
@@ -54,17 +54,17 @@
     - 회원가입시 이미지를 웹캠에서 받아서 저장
     - 학생 세부사항을 데이터베이스에 저장
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/081eefff-0c37-41bf-a352-2b037c51199a/Untitled.png)
+![Untitled](image/5.png)
 
 - 출석 확인
     - 웹캠의 상하좌우를 학습시킨 모델이 비교를 통해 신뢰도가 0.55가 넘으면 확인
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a821a71-21ad-42bd-bca3-ed9054720c78/Untitled.png)
+![Untitled](image/6.png)
 
 - 이메일 전송
     - Yamail을 통해 구글 이메일로 데이터베이스에 저장된 출결정보를 csv로 전송
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4845beda-fd63-4c19-b228-d8367d0612b1/Untitled.png)
+![Untitled](image/7.png).png)
     
 
 ### 서버
@@ -91,7 +91,7 @@
         - 디버깅이 파이썬으로 되어있어 편하다
     
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/84cef4de-69f1-44f4-a96f-f6cd961c2d6c/Untitled.png)
+![Untitled](image/8.png)
 
 ### 데이터 베이스
 
@@ -100,6 +100,6 @@
     - 재사용 및 유지 보수의 편리성이 증가
     - DBMS 종속성이 줄어든다
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32a0e875-496e-4b58-ba8e-7e1dc9833663/Untitled.png)
+![Untitled](image/9.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/adb50a56-b201-4877-a602-538c9fa69300/Untitled.png)
+![Untitled](image/10.png)
